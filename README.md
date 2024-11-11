@@ -13,7 +13,7 @@ Welcome to **Sarah**! This project is designed to get an AI description of a url
 You can install the package via pip:
 
 ```bash
-pip install https://github.com/alexruco/sarah@main#egg=sarah
+pip install git+https://github.com/alexruco/sarah@main#egg=sarah
 Usage 📚
 
 Here's a quick example to get you started:
